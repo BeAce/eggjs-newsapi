@@ -1,14 +1,14 @@
 {
   "name": "egg-example",
   "version": "1.0.0",
-  "description": "",
+  "description": "request newsapi based on eggjs",
   "main": "index.js",
   "scripts": {
     "dev": "egg-bin dev",
     "test": "egg-bin test",
     "cov": "egg-bin cov"
   },
-  "author": "",
+  "author": "beace",
   "license": "ISC",
   "dependencies": {
     "egg": "^2.0.0",

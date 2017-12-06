@@ -1,6 +1,6 @@
 # customer
 app/config/
-
+run/
 # Logs
 logs
 *.log

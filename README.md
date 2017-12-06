@@ -1,2 +1,2 @@
 # eggjs-newsapi
-request newsapi based on eggjs
+request [newsapi](https://newsapi.org) based on eggjs
