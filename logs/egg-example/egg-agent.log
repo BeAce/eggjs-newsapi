@@ -1,0 +1,2 @@
+2017-12-06 17:02:48,613 INFO 13039 [egg:logger] init all loggers with options: {"dir":"/Users/beace/Documents/test/nodejs/egg-example/logs/egg-example","encoding":"utf8","env":"unittest","level":"INFO","consoleLevel":"WARN","disableConsoleAfterReady":false,"outputJSON":false,"buffer":false,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":true,"type":"agent"}
+2017-12-06 17:02:48,693 INFO 13039 [egg-watcher:agent] watcher start success

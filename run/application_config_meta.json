@@ -1,0 +1,247 @@
+{
+  "keys": "/Users/beace/Documents/test/nodejs/egg-example/config/config.default.js",
+  "apiKey": "/Users/beace/Documents/test/nodejs/egg-example/config/config.default.js",
+  "view": {
+    "defaultViewEngine": "/Users/beace/Documents/test/nodejs/egg-example/config/config.default.js",
+    "mapping": {
+      ".tpl": "/Users/beace/Documents/test/nodejs/egg-example/config/config.default.js"
+    },
+    "root": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-view/config/config.default.js"
+  },
+  "news": {
+    "pageSize": "/Users/beace/Documents/test/nodejs/egg-example/config/config.default.js",
+    "serverUrl": "/Users/beace/Documents/test/nodejs/egg-example/config/config.default.js"
+  },
+  "middleware": "/Users/beace/Documents/test/nodejs/egg-example/config/config.default.js",
+  "robot": {
+    "ua": "/Users/beace/Documents/test/nodejs/egg-example/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-multipart/config/config.default.js"
+  },
+  "development": {
+    "watchDirs": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-static/config/config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg-view-nunjucks/config/config.local.js"
+  },
+  "env": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+  "name": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+    "version": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+    "description": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+    "main": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "dev": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+      "test": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+      "cov": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+    "license": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+      "moment": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+    "strict": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+      "depth": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+    "env": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+    "level": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxAge": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "coreMiddleware": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+      "port": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "responseTimeout": "/Users/beace/Documents/test/nodejs/egg-example/node_modules/egg/config/config.default.js"
+  }
+}
